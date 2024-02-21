@@ -1,1 +1,1 @@
-# .github
+# Simple Made Easy
